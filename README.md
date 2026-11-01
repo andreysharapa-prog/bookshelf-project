@@ -18,4 +18,4 @@ Celem projektu jest stworzenie aplikacji ułatwiającej organizację prywatnej k
 
 ## 👥 Skład zespołu
 * **Andrii Sherepa** – D501(10952)
-* **Margarita Reshetnikova** – D501(10960)
+* **Marharyta Reshetnikova** – D501(10960)
